@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    margin-top: 25px;
+}
+
+#page-heading{
+    font-family: sans-serif;
+    text-align: center;
+    color: grey;
+}
+
+.details{
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+div:hover{
+    background-color: aqua;
+}
+
+li{
+    list-style: none;
+    margin-top: 5px;
+}
+
+form{
+    text-align: center;
+}
+
+button{
+    background-color: grey;
+}
+
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
